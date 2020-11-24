@@ -1,4 +1,4 @@
-# Project-01 - Daytripper
+# Daytripper
 
 Daytripper is a dynamic site users can go to when they want to easily search for resturants and events happening in their area.
 
